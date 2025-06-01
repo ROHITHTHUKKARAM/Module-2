@@ -1,4 +1,4 @@
-# Built-in Functions -Binary Conversion Using Built-in Functions in Python
+# 1.Built-in Functions -Binary Conversion Using Built-in Functions in Python
 
 ## 🎯 Aim
 To write a Python program to convert the number **16** into its **binary representation** using built-in Python functions.
@@ -21,7 +21,7 @@ print(y)
 ## Result
 Thus,the Python program to convert the number 16 into its binary representation using built-in Python functions is created successfully.
 
-# Functions in Python: Modulo Calculator
+# 2.Functions in Python: Modulo Calculator
 
 ## 🎯 Aim
 To write a Python program that defines a function which accepts two values and returns their **modulo** using the `%` operator.
@@ -49,7 +49,7 @@ print("modulo is", result(a, b))
 
 ## Result
 Thus,the Python program that defines a function which accepts two values and returns their modulo using the % operator is created successfully.
-# Lambda Function in Python: Addition of Two Numbers
+# 3.Lambda Function in Python: Addition of Two Numbers
 
 ## 🎯 Aim
 To write a Python program that defines a **lambda function** which takes two arguments `a` and `b`, and returns their sum.
@@ -75,7 +75,7 @@ print(f(i, j,z))
 ## Result
 Thus,the Python program that defines a lambda function which takes two arguments a and b, and returns their sum is created successfully.
 
-# 🔺 Looping(Patterns)-Pascal's Triangle Generator in Python
+# 4.Looping(Patterns)-Pascal's Triangle Generator in Python
 
 This project demonstrates a simple Python program to generate **Pascal’s Triangle**, where the number of rows is provided by the user.
 
@@ -125,7 +125,7 @@ for i in range(1, rows+1):
 ## Result
 Thus,the Python program that generates Pascal's Triangle using numbers. The number of rows is accepted from the user is created successfully.
 
-## Loops in Python: Palindrome Number Checker
+## 5.Loops in Python: Palindrome Number Checker
 
 ## 🎯 Aim
 To write a Python program that checks whether a given number is a **palindrome** using loops.
